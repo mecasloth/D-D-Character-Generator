@@ -1,0 +1,13 @@
+F:\Test Code\Random Number Geneator\bin\Debug\netcoreapp3.1\Random Number Geneator.exe
+F:\Test Code\Random Number Geneator\bin\Debug\netcoreapp3.1\Random Number Geneator.deps.json
+F:\Test Code\Random Number Geneator\bin\Debug\netcoreapp3.1\Random Number Geneator.runtimeconfig.json
+F:\Test Code\Random Number Geneator\bin\Debug\netcoreapp3.1\Random Number Geneator.runtimeconfig.dev.json
+F:\Test Code\Random Number Geneator\bin\Debug\netcoreapp3.1\Random Number Geneator.dll
+F:\Test Code\Random Number Geneator\bin\Debug\netcoreapp3.1\Random Number Geneator.pdb
+F:\Test Code\Random Number Geneator\obj\Debug\netcoreapp3.1\Random Number Geneator.csprojAssemblyReference.cache
+F:\Test Code\Random Number Geneator\obj\Debug\netcoreapp3.1\Random Number Geneator.AssemblyInfoInputs.cache
+F:\Test Code\Random Number Geneator\obj\Debug\netcoreapp3.1\Random Number Geneator.AssemblyInfo.cs
+F:\Test Code\Random Number Geneator\obj\Debug\netcoreapp3.1\Random Number Geneator.csproj.CoreCompileInputs.cache
+F:\Test Code\Random Number Geneator\obj\Debug\netcoreapp3.1\Random Number Geneator.dll
+F:\Test Code\Random Number Geneator\obj\Debug\netcoreapp3.1\Random Number Geneator.pdb
+F:\Test Code\Random Number Geneator\obj\Debug\netcoreapp3.1\Random Number Geneator.genruntimeconfig.cache
